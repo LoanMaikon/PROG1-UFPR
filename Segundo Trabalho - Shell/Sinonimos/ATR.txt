@@ -1,0 +1,17 @@
+arabidopsis thaliana ataxia telangiectasia-mutated and rad3-related
+atatr
+ataxia telangiectasia-mutated and rad3-related
+atr
+atr_0
+atr_1
+atr_2
+atrad3
+fctcs
+frp1
+mec1
+mhk7.5
+mhk7_5
+sckl
+sckl1
+si:dkey-231j24.1
+xatr

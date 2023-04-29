@@ -1,0 +1,34 @@
+arabidopsis thaliana small ubiquitin-like modifier 1
+atsumo1
+dap-1
+dap1
+f10m23.180
+f10m23_180
+fd12c02
+gmp1
+hm:zeh0670
+ofc10
+pic1
+pigsumo1
+senp2
+sentrin
+small ubiquitin-like modifier 1
+smt3
+smt3c
+smt3h3
+smtp3
+sum1
+sumo 1
+sumo-1
+sumo1
+sumo1_0
+sumo1_1
+sumo1-a
+sumo1-b
+ubl1
+wu:fb74c02
+wu:fd12c02
+xsumo-1
+xsumo1
+zgc:65934
+zgc:85634

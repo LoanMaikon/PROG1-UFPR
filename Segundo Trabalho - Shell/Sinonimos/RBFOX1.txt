@@ -1,0 +1,17 @@
+2bp1
+a2bp
+a2bp1
+bcdna:gm06073
+cg14155
+cg18441
+cg32062
+da2bp1
+dmel\cg32062
+f8vzg9
+fox-1
+fox1
+hrnbp1
+rbfox1
+rbfox3
+rbfox3a
+zgc:103635

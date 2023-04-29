@@ -1,0 +1,30 @@
+arabidopsis thaliana eukaryotic translation initation factor 4e1
+at.eif4e1
+auts19
+cbp
+cm-eif4e
+cucumovirus multiplication 1
+cum1
+d6rbw1
+ddb_0216584
+ddb_0234247
+ddbdraft_0216584
+ddbdraft_0234247
+eg668879
+eif-4e
+eif4e
+eif-4e-1
+eif4e-1
+eif4e1
+eif4e-a
+eif4ea
+eif4el1
+eif4e-ps
+eif4f
+eukaryotic translation initation factor 4e
+eukaryotic translation initiation factor 4e
+eukaryotic translation initiation factor 4e1
+f15j5.10
+f15j5_10
+if4e
+p4ea

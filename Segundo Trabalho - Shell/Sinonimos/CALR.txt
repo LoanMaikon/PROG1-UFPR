@@ -1,0 +1,35 @@
+a9237_06485
+al553_004880
+anon-est:fe3d7
+anon-est:liang-2.11
+anon-est:liang-2.17
+bsz04_21530
+c1n50_14655
+calr
+calr_1
+calregulin
+calrl2
+cc1qr
+cg9429
+chr3r:5454619..5454778
+clone 2.11
+clone 2.17
+clr
+crc
+crp55
+crt
+dmel\cg9429
+erp60
+eth
+fc66d10
+hacbp
+hel-s-99n
+la59_02720
+pn96_11575
+potp
+ro
+ssa
+vp0350
+wu:fc66d10
+wu:fj50c03
+zgc:66153

@@ -1,0 +1,23 @@
+ap22.9
+ap22_9
+arabidopsis thaliana class b heat shock factor b1
+arabidopsis thaliana heat shock factor 4
+athsf4
+at-hsfb1
+chsf4b
+class b heat shock factor b1
+ctm
+ctrct5
+heat shock factor 4
+hsf 4
+hsf4
+hsf4b
+hsfb1
+hstf 4
+hstf4
+ldis1
+mhsf4
+nol3
+tbf1
+tl1-binding transcription factor 1
+zgc:113344

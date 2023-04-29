@@ -1,0 +1,27 @@
+abc30
+abcc2
+abcc2_0
+abcc2_1
+abc transporter
+ai173996
+arabidopsis thaliana atp-binding cassette c2
+atabcc2
+atmrp2
+atp-binding cassette c2
+cmoat
+cmrp
+ddb_0206505
+ddb_0220024
+ddbdraft_0206505
+ddbdraft_0220024
+djs
+ebcr
+est4
+mrp
+mrp2
+multidrug resistance-associated protein 2
+q5tcz5
+slabcc2
+t29f13.13
+t29f13_13
+zgc:66072

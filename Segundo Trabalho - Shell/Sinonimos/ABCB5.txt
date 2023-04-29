@@ -1,0 +1,24 @@
+9230106f14rik
+abcb1_1
+abcb4
+abcb5
+abcb5alpha
+abcb5beta
+atp-binding cassette b5
+ddb_0184449
+ddb_0201625
+ddbdraft_0184449
+ddbdraft_0201625
+est422562
+im:7158730
+mdr1
+mdr1b
+p-glycoprotein 5
+pgp5
+rgd1566342
+slabcb5
+t7b11.9
+t7b11_9
+wu:fc18f02
+wu:fi81f06
+xxbac-bpg246d15.9

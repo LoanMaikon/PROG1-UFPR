@@ -1,0 +1,29 @@
+abc29
+abcc
+abcc1
+abcc1_2
+abcc1a
+abcc1b
+abcc1beta
+arabidopsis thaliana atp-binding cassette c1
+arabidopsis thaliana multidrug resistance-associated protein 1
+atabcc1
+atmrp1
+atp-binding cassette c1
+avcc1a
+ddb_0206042
+ddb_0215360
+ddbdraft_0206042
+ddbdraft_0215360
+dfna77
+est1
+glutathione s-conjugate transporting atpase
+gs-x
+mdrap
+mrp
+mrp1
+multidrug resistance-associated protein 1
+si:dkeyp-72e1.5
+slabcc1
+t4k22.12
+t4k22_12

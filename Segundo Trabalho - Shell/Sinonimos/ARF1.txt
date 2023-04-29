@@ -1,0 +1,18 @@
+adp-ribosylation factor
+adp-ribosylation factor 1
+adp-ribosylation factor 1a
+arf1
+arf3
+atarf
+atarf1
+atarfa1a
+auxin response factor 1
+f23h11.7
+f23h11_7
+f28c11.12
+learf1
+pvnh8
+slarf1
+tgme49_076140
+wu:fb33e02
+wu:fb78h01

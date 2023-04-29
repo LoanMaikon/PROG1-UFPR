@@ -1,0 +1,7 @@
+irf10
+irf-9
+irf9
+isgf3
+isgf3g
+p48
+zgc:92097

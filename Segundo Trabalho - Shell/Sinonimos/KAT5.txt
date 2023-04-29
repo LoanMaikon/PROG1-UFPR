@@ -1,0 +1,21 @@
+3-keto-acyl-coa thiolase
+3-keto-acyl-coenzyme a thiolase 5
+ai839539
+cpla2
+e9prl6
+esa1
+htatip
+htatip1
+k24g6.22
+k24g6_22
+kat5
+nedfasb
+peroxisomal-3-keto-acyl-coa thiolase 1
+peroxisomal 3-keto-acyl-coa thiolase 2
+pkt1
+pkt2
+plip
+tip
+tip55
+tip60
+zc2hc5

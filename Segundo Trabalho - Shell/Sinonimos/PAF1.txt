@@ -1,0 +1,23 @@
+20s proteasome subunit paf1
+5730511k23rik
+aa675045
+aln
+ars5
+arsenic tolerance 5
+atpsm30
+ddb_0190242
+ddb_0267068
+ddbdraft_0190242
+ddbdraft_0267068
+f23149_1
+f8w9q2
+im:6906070
+mjb21.17
+mjb21_17
+paf1
+paf1l
+pd2
+proteasome alpha subunit f1
+rgd1306219
+tgme49_049680
+wu:fb80a09

@@ -1,0 +1,27 @@
+4921531n22rik
+ai789753
+au040360
+cdi4
+cdkn2b
+cg1772
+cib1
+dac
+dacapo
+dacapo/cyclin-dependent kinase interactor 4
+dap
+dap-1
+dap1
+dap1a
+decapo
+dmel\cg1772
+e(sev-cyce)2b
+l(2)04454
+p15
+p21
+p21[dacapo]
+p27
+p27cip/kip
+p27[dap]
+rap7a
+wu:fa16h08
+wu:fc06d11

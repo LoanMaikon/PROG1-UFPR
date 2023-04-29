@@ -1,0 +1,28 @@
+2ar
+apl-1
+atspp1
+bnsp
+bsp
+bspi
+c9jxd2
+cps40
+dkfzp469g1232
+eta
+eta-1
+f5d21.9
+f5d21_9
+lipid phosphate phosphatase delta
+lppdelta
+op
+opn
+opnl
+osp
+ost
+pri1
+ric
+saf41
+sphingoid phosphate phosphatase 1
+spp-1
+spp1
+sucrose-phosphatase 1
+zgc:111821

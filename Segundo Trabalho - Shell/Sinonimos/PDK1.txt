@@ -1,0 +1,28 @@
+1210
+3-phosphoinositide-dependent protein kinase 1
+3'-phosphoinositide-dependent protein kinase 1
+atpdk1
+b830012b01
+cg1201
+cg1210
+d530020c15rik
+dmel\cg1210
+dpdk
+dpdk-1
+dpdk1
+dstpk61
+pdk
+pdk-1
+pdk1
+pdk1/pk61c
+pdk3
+pdko1
+pdko3
+pdpk1
+pk61c
+pk61c/pdk1
+si:zfos-979f1.3
+t32m21.110
+t32m21_110
+xpdko1
+xpdko3

@@ -1,0 +1,11 @@
+hgprt
+hgprtase
+hprt
+hprt1
+id:ibd1344
+id:ibd5108
+prtfdc1
+qfla-10339
+wu:fc10g09
+zgc:56221
+zgc:86608

@@ -1,0 +1,17 @@
+2010306g03rik
+av220920
+cmd1
+cmpd1
+mkiaa4243
+msox9
+pssox9
+sox-9
+sox9
+sox9-a
+sox9alpha2
+sox9-b
+sra1
+srxx2
+srxy10
+sry
+xt-sox9

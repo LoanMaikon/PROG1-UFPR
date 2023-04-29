@@ -1,0 +1,26 @@
+ai265463
+cb856
+cb924
+fj93h11
+gtp
+jpm2
+pck
+pck-1
+pck1
+pckdc
+pepck
+pepck1
+pepck-c
+pepckc
+phosphoenolpyruvate carboxykinase
+phosphoenolpyruvate carboxykinase 1
+ppc1
+ppck1
+ppckc
+ratpepck
+spac22h10.01c
+t28i19.150
+t28i19_150
+wu:fc51c05
+wu:fj93h11
+zgc:63869

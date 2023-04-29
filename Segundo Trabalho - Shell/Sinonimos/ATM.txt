@@ -1,0 +1,20 @@
+ai256621
+arabidopsis thaliana ataxia-telangiectasia mutated
+at1
+ata
+atatm
+ataxia-telangiectasia mutated
+atc
+atd
+atdc
+ate
+atm
+atm_0
+atm_1
+atm_2
+c030026e19rik
+pcd in male gametogenesis 1
+pig1
+tel1
+telo1
+xatm

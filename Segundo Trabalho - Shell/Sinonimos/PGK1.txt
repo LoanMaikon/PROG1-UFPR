@@ -1,0 +1,12 @@
+hel-s-68p
+mig10
+pgk
+pgk-1
+pgk1
+pgk2
+pgka
+phosphoglycerate kinase 1
+wu:fd59b07
+wu:fj36g06
+zgc:56252
+zgc:77899

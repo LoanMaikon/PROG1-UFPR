@@ -1,0 +1,17 @@
+1110002j03rik
+3000002j10rik
+b230219d21rik
+f5gwr7
+hptp
+hptpd
+hptpdelta
+po23_2
+ptpd
+ptpdelta
+ptpra
+ptprd
+ptprd_0
+ptprd_1
+r-ptp-delta
+rptpdelta
+xptp-d

@@ -1,0 +1,33 @@
+abc20
+abcb
+abcb1
+abcb1_0
+abcb1_1
+abcb1a
+abcb1lb
+abcb4
+arabidopsis thaliana p glycoprotein1
+atp-binding cassette b1
+atp binding cassette subfamily b1
+atpgp1
+cd243
+clcs
+cmdr1
+ddb_0201666
+ddb_0219854
+ddbdraft_0201666
+ddbdraft_0219854
+gp170
+h0yfd0
+mdr1
+p-170
+p-glycoprotein 1
+p-gp
+pgp
+pgp1
+pgp1a
+pgy1
+slabcb1
+t1j8.9
+t1j8_9
+tgme49_060310

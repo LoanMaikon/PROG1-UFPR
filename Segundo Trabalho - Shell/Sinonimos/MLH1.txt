@@ -1,0 +1,28 @@
+1110035c23rik
+ai317206
+ai325952
+ai561766
+arabidopsis thaliana mutl-homologue 1
+atmlh1
+cg11482
+coca2
+ddb_0187465
+ddb_0232418
+ddbdraft_0187465
+ddbdraft_0232418
+dmel\cg11482
+dmlh-1
+dmlh1
+f23j3.170
+f23j3_170
+fcc2
+hmlh1
+hnpcc
+hnpcc2
+mlh-1
+mlh1
+mmrcs1
+mutl
+mutl-homologue 1
+pms2
+zgc:66301

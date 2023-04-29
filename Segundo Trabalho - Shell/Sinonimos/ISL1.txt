@@ -1,0 +1,9 @@
+isl-1
+isl1
+isl-1=homeobox
+isl2
+islet
+islet-1
+islet1
+xisl-1
+xislet-1

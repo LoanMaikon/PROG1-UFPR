@@ -1,0 +1,29 @@
+agt
+agt1
+agtp
+ai265500
+alanine:glyoxylate aminotransferase
+alanine:glyoxylate aminotransferase 1
+ang
+angi
+angii
+angt
+anhu
+anrt
+aogen
+bg:ds00004.10
+cg1303
+dmagt
+dmel\cg1303
+f14o4.7
+f14o4_7
+hflt1
+l-serine:glyoxylate aminotransferase
+pat
+phi80_40
+ren
+serpina8
+sgat
+wu:fb62f06
+wu:fj87b02
+zgc:111892

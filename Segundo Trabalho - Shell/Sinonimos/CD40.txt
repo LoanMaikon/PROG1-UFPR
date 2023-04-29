@@ -1,0 +1,17 @@
+ai326936
+bp50
+cd40
+cdw40
+gp39
+higm1
+igm
+imd3
+p50
+si:ch211-231h20.3
+t-bam
+tnfrsf18
+tnfrsf5
+tnfrsf5a
+tnfsf5
+tnr5
+trap

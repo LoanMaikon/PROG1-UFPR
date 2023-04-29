@@ -1,0 +1,6 @@
+bta-mir-1246
+hsa-mir-1246
+mir-1246
+mir1246
+mirn1246
+ptr-mir-1246

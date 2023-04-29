@@ -1,0 +1,12 @@
+ccl20
+ckb4
+exodus
+exodus-1
+larc
+mip-3[a]
+mip-3a
+mip3a
+mip-3-alpha
+mip-3alpha
+scya20
+st38

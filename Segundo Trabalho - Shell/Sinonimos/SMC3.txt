@@ -1,0 +1,35 @@
+arabidopsis thaliana chromosome associated protein-c
+arabidopsis thaliana structural maintenance of chromosome 4
+atcap-c
+atsmc3
+atsmc4
+bam
+bamacan
+bmh
+cap
+cdls3
+cg9802
+cspg6
+dcap
+ddb_0217761
+ddb_0219934
+ddbdraft_0217761
+ddbdraft_0219934
+dmel\cg9802
+dmsmc3
+dmsmc3/cap
+dsmc3
+hcap
+im:7142991
+k15n18.7
+k15n18_7
+mmip1
+smc-3
+smc3
+smc3l1
+smcd
+structural maintenance of chromosome 3
+structural maintenance of chromosomes 3
+wu:fb22e01
+wu:fc30d07
+xsmc3

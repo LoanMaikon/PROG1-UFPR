@@ -1,0 +1,13 @@
+1110001n06rik
+2310011g05rik
+2810021o11rik
+8430413n20rik
+bcdna:ld24014
+cg1109
+dmel\cg1109
+net14
+wdc146
+wdr33
+wdr33_0
+wdr33_1
+zgc:110570

@@ -1,0 +1,13 @@
+2310057b22rik
+aw413319
+aw545101
+ddb_0204503
+ddb_0232253
+ddbdraft_0204503
+ddbdraft_0232253
+homolog of human dna ligase iv-binding protein xrcc4
+homolog of x-ray repair cross complementing 4
+hxrcc4
+ssmed
+xrcc4
+zgc:73312
